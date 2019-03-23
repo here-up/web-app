@@ -4,6 +4,7 @@
 </template>
 
 <script>
+  import HereMap from "@/components/HereMap.vue"
 
   export default {
     name: 'home',

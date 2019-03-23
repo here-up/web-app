@@ -5,14 +5,10 @@
       <router-link to="/join">Join</router-link>
       <router-link to="/login">Login</router-link>
     </div>
-    <!-- <HereMap
-        appId="APP-ID-HERE"
-        appCode="APP-CODE-HERE"
-        lat="37.7397"
-        lng="-121.4252"
+    <HereMap
         width="100%"
         height="835px"
-    /> -->
+    />
 
     <router-view/>
   </div>
